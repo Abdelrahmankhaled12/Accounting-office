@@ -1,9 +1,9 @@
-# Accounting-office
+# Accounting-office 🏢
 
 The accounting office website provides a comprehensive explanation of the services they offer, as well as contact information for the office. The website is designed to be responsive and visually appealing, with clear navigation and an intuitive design.
 
 
-## Technologies Used
+## Technologies Used 🚀
 
 <ul>
   <li>HTML </li>
@@ -17,7 +17,7 @@ The accounting office website provides a comprehensive explanation of the servic
 
 
 
-## Contents
+## Contents 💡
 
 <ul>
   <li>Home page: Provides an overview of the accounting office, including the number of clients they have served, information about some of the services they offer, and their mission statement. </li>
@@ -26,16 +26,19 @@ The accounting office website provides a comprehensive explanation of the servic
   <li>"Contact Us" page: Provides contact information for the office and different ways to communicate with them, including WhatsApp. </li>
 </ul>
 
+<hr>
 
 
-
-## Demo
-
-[accounting office](https://abdelrahmankhaled12.github.io/Accounting-office/)
+<img src="https://i.ibb.co/8Y1yYMY/project-1.png" />
 
 
+*Demo [accounting office](https://abdelrahmankhaled12.github.io/Accounting-office/)*
 
-### How to Use
+
+<hr>
+
+
+## How to Use
 
 <ul>
   <li>Download the project from your repository.</li>
