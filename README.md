@@ -4,13 +4,13 @@ The accounting office website provides a comprehensive explanation of the servic
 
 ## Technologies Used
 
--HTML
--CSS
--JavaScript
--Bootstrap5
--Wow.js
--Email.js
--Sweetalert2
+--HTML
+--CSS
+--JavaScript
+--Bootstrap5
+--Wow.js
+--Email.js
+--Sweetalert2
 
 
 
